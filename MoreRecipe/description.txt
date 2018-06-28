@@ -1,0 +1,40 @@
+Have you ever wanted to make a platinum sword but your world was generated with gold? Or Have the Last Prism,
+but Moon lord drop you only the portal gun ? This mod will help you in this things.
+More Recipe adds recipe for almost everything terraria items, accessories, painting and boss drop. 
+It was Made to simplify the gamplay and to make possible change thing like ore or boss drop.
+
+
+New version 0.3 adds:
+Now you can swap King Slime items, and craft the with one Regale gel (dropped by him) at any anvils
+You can craft binoculars (rare Eye of Cthulhu drop) with 4 lens and 4 iron/lead bar at any anvils
+You can craft Eater's Bone (rare Eater of Worlds drop) with 30 shadow scale at any anvils
+You can craft Bone Rattle (rare Brain of Cthulhu drop) with 30 tissue sample at any anvils
+You can swap any Queen Bee's items, and craft them with 12 Bee Wax at any anvils
+You can swap any Skeletron's items, and craft them with Golden bone (dropped by him) at any anvils
+You can swap any Wall oF Flesh items, and craft them with Golden bone (dropped by him) at any anvils
+You can swap any Plantera item, and craft them with one Seed (Dropped by her) at any hardome anvils
+You can swap any Golem item, and craft them with 2 Beetle Husk at any hardome anvils
+You can swap any Duke Fishron item, and craft them with one strange fish (dropped by him) at any hardome anvils
+Now you can craft all Frost moon items with 2 snow power cell (dropped by everscream, santa nk1 and ice queen) at any hardmode anvils
+Now you can craft all golden themed furniture with 30 shiny gold bar (Dropped by any pirate) at any hardmode anvils
+Now you can swap all old one's army items, and craft them with defender medals, and craft Dark Mage items at any anvils, Ogre and Betsy items at any hardmode anvils
+
+version 0.2 adds:
+Recipe to change all event boss drop
+Recipe to craft all Moon Lord items (with 10 luminite bar at an ancient manipulator)
+Recipe to craft all Pumpkin Moon event items (with 30 spooky wood at any hadmode anvil)
+Recipe to craft all martian madness items (with 100 Martian Conduit Plating at any hadmode anvil)
+
+version 0.1 adds:
+Recipe to chang loot from all main boss (not event boss excluding Celestial Tower)
+Recipe for all paint (you can make them in a workbench with 20 wood and any painting)
+Recipe to change ore and bar (like iron with lead, or cobalt with palladium)
+An OP hidden accessory
+
+
+I will add more thing next.
+
+
+Made by : Krono_godSLayer
+
+version : 0.3

@@ -1,0 +1,7 @@
+author = Krono_godSLayer
+version = 0.3
+displayName = More Recipe
+homepage = https://forums.terraria.org/index.php?threads/more-recipe-mod.70503/#post-1603940
+hideCode = true
+hideResources = true
+
