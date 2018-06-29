@@ -5504,6 +5504,15 @@ namespace MoreRecipe
 				recipe.SetResult(ItemID.FishronWings);
 				recipe.AddRecipe();
 				
+				//version 0.3.5 fix some accessories recipe
+				
+				recipe = new ModRecipe(this);
+				recipe.AddIngredient(ItemID.Vertebrae, 5);
+				recipe.AddTile(TileID.WorkBenches);
+				recipe.SetResult(ItemID.Leather);
+				recipe.AddRecipe();
+				
+				
 		}
 		
 	}
