@@ -698,22 +698,22 @@ namespace MoreRecipe
 				
 				recipe = new ModRecipe(this);
 				recipe.AddIngredient(ItemID.BottledWater);
-				recipe.AddIngredient(ItemID.Silk,5);
+				recipe.AddIngredient(ItemID.Leather,5);
 				recipe.AddTile(TileID.Anvils);
 				recipe.SetResult(ItemID.BalloonPufferfish);
 				recipe.AddRecipe();
 				
 				recipe = new ModRecipe(this);
 				recipe.AddIngredient(ItemID.Bottle);
-				recipe.AddIngredient(ItemID.SnowBlock,20);
-				recipe.AddIngredient(ItemID.IceBlock,20);
+				recipe.AddIngredient(ItemID.SnowBlock,100);
+				recipe.AddIngredient(ItemID.IceBlock,100);
 				recipe.AddTile(TileID.Anvils);
 				recipe.SetResult(ItemID.BlizzardinaBottle);
 				recipe.AddRecipe();
 				
 				recipe = new ModRecipe(this);
 				recipe.AddRecipeGroup("IronBar", 3);
-				recipe.AddIngredient(ItemID.Silk,10);
+				recipe.AddIngredient(ItemID.Silk,3);
 				recipe.AddTile(TileID.Anvils);
 				recipe.SetResult(ItemID.ClimbingClaws);
 				recipe.AddRecipe();
@@ -721,7 +721,7 @@ namespace MoreRecipe
 				recipe = new ModRecipe(this);
 				recipe.AddIngredient(ItemID.Bottle);
 				recipe.AddIngredient(ItemID.Cloud,10);
-				recipe.AddTile(TileID.Anvils);
+				recipe.AddTile(TileID.WorkBenches);
 				recipe.SetResult(ItemID.CloudinaBottle);
 				recipe.AddRecipe();
 				
@@ -733,34 +733,42 @@ namespace MoreRecipe
 				recipe.AddRecipe();
 				
 				recipe = new ModRecipe(this);
-				recipe.AddRecipeGroup("IronBar", 5);
-				recipe.AddIngredient(ItemID.Silk,12);
-				recipe.AddTile(TileID.Anvils);
+				recipe.AddIngredient(ItemID.Silk,5);
+				recipe.AddIngredient(ItemID.Leather,4);
+				recipe.AddTile(TileID.WorkBenches);
 				recipe.SetResult(ItemID.FlurryBoots);
 				recipe.AddRecipe();
 				
 				recipe = new ModRecipe(this);
-				recipe.AddIngredient(ItemID.Silk,25);
-				recipe.AddTile(TileID.Anvils);
+				recipe.AddIngredient(ItemID.Silk,20);
+				recipe.AddTile(TileID.WorkBenches);
 				recipe.SetResult(ItemID.FlyingCarpet);
 				recipe.AddRecipe();
 				
 				recipe = new ModRecipe(this);
-				recipe.AddIngredient(ItemID.Silk,20);
-				recipe.AddTile(TileID.Anvils);
+				recipe.AddIngredient(ItemID.Leather,10);
+				recipe.AddTile(TileID.WorkBenches);
 				recipe.SetResult(ItemID.FrogLeg);
 				recipe.AddRecipe();
 				
 				recipe = new ModRecipe(this);
-				recipe.AddRecipeGroup("IronBar", 5);
-				recipe.AddIngredient(ItemID.Silk,12);
-				recipe.AddTile(TileID.Anvils);
+				recipe.AddIngredient(ItemID.Leather,4);
+				recipe.AddIngredient(ItemID.Silk,5);
+				recipe.AddTile(TileID.WorkBenches);
 				recipe.SetResult(ItemID.HermesBoots);
 				recipe.AddRecipe();
 				
+				
 				recipe = new ModRecipe(this);
-				recipe.AddRecipeGroup("IronBar", 5);
-				recipe.AddIngredient(ItemID.Silk,12);
+				recipe.AddIngredient(ItemID.Leather,6);
+				recipe.AddIngredient(ItemID.Silk,8);
+				recipe.AddTile(TileID.WorkBenches);
+				recipe.SetResult(ItemID.SailfishBoots);
+				recipe.AddRecipe();
+				
+				recipe = new ModRecipe(this);
+				recipe.AddRecipeGroup("IronBar", 3);
+				recipe.AddIngredient(ItemID.Leather,4);
 				recipe.AddTile(TileID.Anvils);
 				recipe.SetResult(ItemID.IceSkates);
 				recipe.AddRecipe();
@@ -781,7 +789,7 @@ namespace MoreRecipe
 				
 				recipe = new ModRecipe(this);
 				recipe.AddIngredient(ItemID.Bottle);
-				recipe.AddIngredient(ItemID.SandBlock,35);
+				recipe.AddIngredient(ItemID.SandBlock,100);
 				recipe.AddTile(TileID.Anvils);
 				recipe.SetResult(ItemID.SandstorminaBottle);
 				recipe.AddRecipe();
